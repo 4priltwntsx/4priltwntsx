@@ -1,8 +1,8 @@
 ### Hi there 👋
 <div align=center>
-  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjg05034)](https://solved.ac/cjg05034/) 
 ![4priltwntsx's github stats](https://github-readme-stats.vercel.app/api?username=4priltwntsx&show_icons=true)
-&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjg05034)](https://solved.ac/cjg05034/)
+
 
 </div>
 
