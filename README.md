@@ -2,7 +2,7 @@
 <br>**`-` SSAFY 8th (2022~2023)**  
 **`-` Sangmyung Univ. Computer Science (2017~2022)**    
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeh9%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=4priltwntsx)](https://solved.ac/4priltwntsx)
+[![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=cjg05034)](https://solved.ac/cjg05034)
 ## Project
 `💕` **dubEng - 영어 더빙으로 스피킹을 배우는 서비스 🏆**  
 `📖` **BookLet - 도서 추천 및 문장 공유 SNS 플랫폼**  
