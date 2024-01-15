@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFE082&text=Hi,&nbsp;There!&nbsp;🐯&height=200&fontSize=50&fontColor=FFFFFF&width=100)<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F4priltwntsx&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=cjg05034)](https://solved.ac/cjg05034)
-<br>**`💙` SSAFY 8th (2022~2023)**  
+<br>
+**`🖥️` kt ds (2024~)**  
+**`💙` SSAFY 8th (2022~2023)**  
 **`👩‍🎓` Sangmyung Univ. Computer Science (2017~2022)**    
 
 ## Project
