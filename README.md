@@ -13,6 +13,8 @@
 `🎼` **HeungR -  악보 생성 모바일 애플리케이션 🏆**  
 
 ## Awards & Certificate
+**`👀` 2026 cos pro 1급 취득** <br>
+**`👀` 2025 DAsP 데이터아키텍처 준전문가 취득** <br>
 **`👀` 2024 Azure AI Fundamentals (AI-900) 취득** <br>
 **`🏆` 2023 SSAFY 8기 자율프로젝트 대전2반 1등(우수상)🥇**    
 **`👀` 2022 OPIc IH 취득**    
